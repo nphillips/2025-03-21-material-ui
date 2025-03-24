@@ -10,7 +10,6 @@ const DashboardPage = () => {
         component="main"
         sx={{
           flexGrow: 1,
-          px: 2,
         }}
       >
         <RecentTransactions />
